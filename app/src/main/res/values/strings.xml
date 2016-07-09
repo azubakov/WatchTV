@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WatchTV</string>
+    <string name="ort">ORT</string>
+    <string name="rtr">RTR</string>
+    <string name="ch10">Ch10</string>
+    <string name="_112_ua">112</string>
+    <string name="onepone_ua">OnePOne</string>
+    <string name="animal">Animal</string>
+    <string name="neogeo">NEOGEO</string>
+    <string name="ntv">NTV</string>
+    <string name="youtube">YOUTUBE</string>
+</resources>
